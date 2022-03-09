@@ -1,0 +1,11 @@
+{
+  "name": "Milan De Meulemeester",
+  "short_name": "Milan",
+  "icons": [{
+    "src": "google-touch-icon.png",
+    "sizes": "512x512"
+  }],
+  "theme_color": "#44C9F6",
+  "background_color": "#FFF",
+  "display": "standalone"
+}
